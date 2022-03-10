@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![github-header-image](https://user-images.githubusercontent.com/82895540/157604862-ce9166fa-5db5-4f75-98d5-d844b0459422.png)
 
 
-<h1 align="center">Heyy there👋</h1>
+<h1 align="center">Hello there👋</h1>
 
 - 🌱 I’m currently learning **React**
 
