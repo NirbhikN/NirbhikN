@@ -40,6 +40,14 @@ Here are some ideas to get you started:
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br><br>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirbhikn&show_icons=true&locale=en&layout=compact" alt="nirbhikn" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirbhikn&show_icons=true&locale=en" alt="nirbhikn" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhikn&" alt="nirbhikn" /></p> -->
+
+<br><br>
 <p> Below you will find the latest project I've done</p>
