@@ -44,10 +44,9 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirbhikn&show_icons=true&locale=en&layout=compact" alt="nirbhikn" /></p>
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirbhikn&show_icons=true&locale=en" alt="nirbhikn" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhikn&" alt="nirbhikn" /></p> -->
-
-<br><br>
+<br>
 <p> Below you will find the latest project I've done</p>
